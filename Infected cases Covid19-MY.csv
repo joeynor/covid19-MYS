@@ -1,0 +1,194 @@
+Patient Case no.,Date Detected,Gender,Age,Race,Nationality,Treatment date begin,Hospital,State Code for hospital,Patient's Origin State ,Connection with other patients,Which Patient Case No. ,Status,Recovered or Deceased Date,Other relevant info
+1,01-24-2020,L,11,,China,,"Hospital Sungai Buloh, Selangor",8,,Cucu kes ke-3 Abang kes ke-2,2 & 3,recovered,02-14-2020,"Traveled from Guandong, China to Singapore on Jan 20 before traveling to Johor Bahru with his family."
+2,01-24-2020,L,2,,China,,"Hospital Sungai Buloh, Selangor",8,,Cucu kes ke-3    Adik kes 1,1 & 3,recovered,02-14-2020,
+3,01-24-2020,F,65,,China,,"Hospital Sungai Buloh, Selangor",8,,Nenek kes 1 dan ke-3,1 & 2,recovered,02-14-2020,Incontact with a wife(age 65) of a man (age 66) from Wuhan who already infected with the virus in Singapore
+4,01-25-2020,M,40,,China,,"Hospital Sultanah Aminah, Johor Bahru",11,,,,recovered,02-08-2020,"A man from China, part of tour group travellede by bus to Johor"
+5,01-28-2020,F,36,,China,,"Hospital Sungai Buloh, Selangor",8,,Ibu kes ke-2 dan menantu kepada kes pertama di Singapore (lelaki 66 tahun),1&2,recovered,02-14-2020,
+6,01-28-2020,F,4,,China,,"Hospital Sultanah Maliha, Langkawi, Kedah",2,,,,recovered,02-04-2020,Unconnected to previous cases
+7,01-28-2020,M,52,,China,,"Hospital Sultanah Aminah, Johor Bahru",11,,Suami kes ke-8,Kes ke-8,recovered,02-18-2020,
+8,01-30-2020,F,49,,China,,"Hospital Permai, Johor",11,,Isteri kes ke-7,Kes ke-7,recovered,02-18-2020,
+9,02-04-2020,M,41,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Abang kes ke-13,"13, 17",recovered,02-17-2020,Pulang dari Singapura setelah menjalani  business trip dari 16 hingga 23 Januari
+10,02-03-2020,M,63,,China,,Hospital Kuala Lumpur,14,,,,recovered,02-09-2020,Tiba di KLIA pada 18 Jan dan mula mengalami demam pada 23 Jan
+11,02-05-2020,M,45,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,Ayah kes ke-12,12,recovered,02-18-2020,"Warga Malaysia yang dikeluarkan dari Wuhan, China"
+12,02-05-2020,M,9,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,Anak kes ke-11,11,recovered,02-18-2020,
+13,02-06-2020,F,40,,Malaysia,,"Hospital Sultanah Bahiyah, Kedah",2,,Adik kes ke-9,9,recovered,02-22-2020,"Ibu kepada dua anak, come into contact with her brother when she returned  home for the New Year on January 23"
+14,02-06-2020,F,37,,China,,Hospital Kuala Lumpur,13,,,16,recovered,02-24-2020,A Chinese woman from Wuhan traveled to Kuala Lumpur with her mother and 3 friends and visited Kuala Lumpur tourist attractions
+15,02-07-2020,F,59,,China,,"Hospital Permai, Johor",11,,,,recovered,02-16-2020,"From Wuhan,China. Arrived in Johor from Singapore on Jan 24 with her husband, son and daugther-in-law"
+16,02-08-2020,F,67,,China,,Hospital Kuala Lumpur,14,,Mother of a friend of case#14,14,recovered,02-27-2020,
+17,02-09-2020,F,64,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Mother-in-law to case #9 Malaysian man,9,recovered,02-19-2020,
+18,02-10-2020,M,32,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,recovered,02-19-2020,"Visited mainland China and worked in Macau, came back to Malaysia on 1st Feb"
+19,02-13-2020,F,39,,China,,Hospital Kuala Lumpur,14,,Friend of the #14 and daughter of the #16,"14, 16",recovered,02-24-2020,
+20,02-14-2020,M,27,,China,,"Hospital Sultanah Bahiyah, Kedah",2,,,,recovered,02-19-2020,"A business traveller, was screened at the Bukit Kayu Hitam check point in Kedah"
+21,02-14-2020,F,32,,China,,"Hospital Sultanah Maliha, Langkawi, Kedah",2,,,,recovered,02-19-2020,Chinese national who resides in Malaysia. Came back to Malaysia after CNY visiting in China
+22,02-15-2020,F,83,,America,,"Hospital Sungai Buloh, Selangor",8,,,,recovered,02-27-2020,A passenger on a cruise ship that docked in Cambodia  on 23 Feb. All passengers and crew were allowed to retuen to their respective countries by Cambodian government after informing them that health checks had been carried out on them
+23,02-27-2020,F,53,,Malaysia,2/24/2020,Hospital Kuala Lumpur,14,,,,,,"Visited Japan. When she return to Malaysia from Japan on 23 feb, she developed fever and went to hospital the next day"
+24,02-27-2020,F,41,,Japanese,,Hospital Kuala Lumpur,14,,,,recovered,03-06-2020,Japanese woman who works in Malaysia. She has a travel history to Japan and Indonesia
+25,02-28-2020,M,54,,Italian,,"Hospital Sungai Buloh, Selangor",8,,,28,,,"Italian man, who is married a Malaysian. He has travel history to Italy for business purposes"
+26,02-29-2020,M,52,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,A lot,,,"Has a history of traveling to Shanghai, China around mid-January 2020"
+27,02-28-2020,F,20,,Malaysia,,Hospital Kuala Lumpur,14,,,24,recovered,03-12-2020,A trained nurse. She underwent short-term training at a private hospital treating case #24 without any proper protection
+28,02-28-2020,M,45,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,25,recovered,03-12-2020,"Travel with case #25 and another colleague has a history of traveling to Milan, Italy"
+29,02-29-2020,F,35,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,24,,,Was placed in the same room with the case #24
+30,03-02-2020,M,38,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,,,Had a travel histroy to Australia on Feb 12 and returned on Feb 16. Previously did not show any symptoms
+31,03-02-2020,M,50,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,recovered,03-12-2020,No recent travel history. The patient reported symptoms on Feb 26
+32,03-02-2020,F,43,,Malaysia,,Hospital Kuala Lumpur,13,,Mother of case #51,51,recovered,03-12-2020,No recent travel history. The patient reported symptoms on Feb 27
+33,03-02-2020,M,58,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Husband of case #43,43,,,"Has a travel history to Kuching, Sarawak to attend a meeting on Feb 16"
+34,03-03-2020,M,40,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,26,recovered,03-12-2020,Paramedic at a hospital and had given treatment to case #26. The patient did not have a recent history of overseas travel
+35,03-02-2020,F,51,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,recovered,03-14-2020,Had travelled to Australia on Jan 31 and return to Malaysia on Feb 16
+36,03-03-2020,M,49,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,,,Travelled to Eygpt on Jan 23 and had returned to Malaysia on Feb 1
+37,03-04-2020,M,63,,Malaysia,,,,,Close contact of case #26,26,,,Attended meeting/event
+38,03-04-2020,F,60,,Malaysia,,,,,Close contact of case #26,"26,42",,,Attended meeting/event
+39,03-04-2020,M,45,,Malaysia,,,,,Friend of case #36,36,,,
+40,03-02-2020,M,49,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Close contact of case #26,26,,,Attend meeting/event
+41,03-04-2020,F,27,,Malaysia,,Hospital Kuala Lumpur,14,,Close contact of case #33,33,recovered,03-08-2020,
+42,03-04-2020,F,38,,Malaysia,,,,,Friend of case #38,38,,,
+43,03-04-2020,F,59,,Malaysia,,,,,Wife of case #33,33,,,
+44,03-04-2020,F,62,,Malaysia,,,,,Wife of case #47,47,,,
+45,03-04-2020,M,30,,Malaysia,,,,,Office staff of case #26,26,,,
+46,03-03-2020,M,41,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Close contact of case #26,26,recovered,03-15-2020,Attended meeting/event
+47,03-04-2020,M,62,,Malaysia,,,,,Close contact of case #26 and husband of case #44,"26, 44",,,Attended meeting/event
+48,03-04-2020,F,55,,Malaysia,,,,,,,,,Unknown - Under investigation
+49,03-03-2020,M,51,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Close contact of case #26,26,recovered,03-15-2020,Attended meeting/event
+50,03-04-2020,F,56,,Malaysia,,,,,Close contact of case #26,26,,,Attended meeting/event
+51,03-04-2020,M,9,,Malaysia,,Hospital Kuala Lumpur,14,,Son of case #32,32,recovered,03-13-2020,
+52,03-04-2020,M,42,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Driver of case #33,33,recovered,03-15-2020,
+53,03-04-2020,M,50,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Staff of case #33,33,recovered,03-12-2020,
+54,03-04-2020,M,46,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Close contact of case #26,26,recovered,03-15-2020,Attended meeting/event
+55,03-05-2020,F,36,,Malaysia,,,,,,,,,Driver under UDA Holdings
+56,03-06-2020,F,50,,Malaysia,,,,,,,,,
+57,03-06-2020,M,16,,Malaysia,,,,,,,,,
+58,03-06-2020,F,29,,Malaysia,,,,,,,,,
+59,03-06-2020,M,61,,Malaysia,,,,,,,,,
+60,03-05-2020,M,63,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,26,recovered,03-14-2020,
+61,03-06-2020,F,58,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,,,
+62,03-06-2020,M,50,,Malaysia,,,,,,,,,
+63,03-06-2020,F,8,,Malaysia,,,,,,,,,
+64,03-06-2020,F,28,,Malaysia,,,,,,,,,
+65,03-06-2020,M,52,,Malaysia,,,,,,,,,
+66,03-06-2020,F,61,,Malaysia,,,,,,,,,
+67,03-06-2020,M,33,,Malaysia,,,,,,,,,
+68,03-06-2020,F,36,,Malaysia,,,,,,,,,
+69,03-06-2020,F,32,,Malaysia,,,,,,,,,
+70,03-06-2020,F,51,,Malaysia,,,,,,,,,
+71,03-06-2020,M,56,,Malaysia,,,,,,,,,
+72,03-06-2020,F,44,,Malaysia,,,,,,,,,
+73,03-06-2020,F,53,,Malaysia,,,,,,,,,
+74,03-06-2020,F,35,,Malaysia,,,,,,,,,
+75,03-04-2020,F,21,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,,,recovered,03-15-2020,
+76,03-06-2020,F,24,,Malaysia,,,,,,,,,
+77,03-06-2020,M,57,,Malaysia,,,,,,,,,
+78,03-04-2020,F,47,,Malaysia,,Hospital Kuala Lumpur,14,,,,recovered,03-11-2020,Has a history traveling to Indonesia for 7 days starting 12 Feb and beginning to show symtoms on Feb 19
+79,03-06-2020,M,32,,Malaysia,,,,,,,,,
+80,03-06-2020,M,36,,Malaysia,,,,,,,,,
+81,03-06-2020,F,51,,Malaysia,,,,,,,,,
+82,03-06-2020,F,53,,Malaysia,,,,,,,,,
+83,03-06-2020,F,53,,Malaysia,,,,,,,,,
+84,03-06-2020,M,12,,Malaysia,,"Hospital Sungai Buloh, Selangor",8,,Had close contact with case #33,33,recovered,03-15-2020,2nd generation
+85,,,,,,,,,,,,,,
+86,03-07-2020,M,,,Malaysia,,,,,,,,,
+87,03-05-2020,M,68,,Malaysia,,Pusat Perubatan Universiti Malaya,14,,,,recovered,03-09-2020,
+88,03-07-2020,,,,Malaysia,,,,,Had close contact with case #33,33,,,2nd generation
+89,03-07-2020,,,,Malaysia,,,,,Had close contact with case #33,33,,,2nd generation
+90,03-07-2020,,,,Malaysia,,,,,Had close contact with case #33,33,,,2nd generation
+91,03-07-2020,,,,Malaysia,,,,,Had close contact with case #33,33,,,2nd generation
+92,03-07-2020,,,,Malaysia,,,,,Had close contact with case #33,33,,,2nd generation
+93,03-07-2020,,,,Malaysia,,,,,,,,,
+94,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+95,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+96,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+97,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+98,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+99,03-08-2020,,,,Malaysia,,,,,Part of cluster connected to case #26,26,,,
+100,,,,,,,,,,,,,,
+101,03-09-2020,M,,,Malaysia,3/8/2020,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,,,,,Has a history of travelling to Iran with a business colleague from 20 to 27 Feb. Developed symtoms on 5 March and tested positive on March 8
+118,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+119,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+120,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+121,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+122,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+123,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+124,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+125,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+126,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+127,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+128,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+129,03-10-2020,,,,Malaysia,,,,,Part of cluster connected to case # 33,33,,,
+130,,,,,,,,,,,,,,
+131,03-10-2020,M,60,,Malaysia,3/9/2020,"Hospital Tengku Ampuan Afzan, Pahang",7,,,,,,"KJT, developed symptoms on 4th March, started facing respiratory issues on 8th March and warded at Hospital Bentong. Transferred to Hospital TAA on 9th March and confirmed positive on 10 March"
+136,03-11-2020,M,26,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,,,,,"Study in Korea and freelance ttravel agent, back from Korea on 22Feb, attended KJT, developed fever on 3rd March, went overseas on 4th March"
+151,03-12-2020,M,66,,Malaysia,,"Hospital Permai, Johor",11,,,,,,Detected through checks on all patients presenting with flu-like illness. He was found to have close contact with somone from KJT on Feb 27 to March 3
+152,03-12-2020,M,58,,Malaysia,,"Hospital Tawau, Sabah",12,,,,Deceased,03-20-2020,Attended or had contact wth someone from KJT
+157,03-12-2020,M,,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,Husband of case #158,158,,,Attended or had contact wth someone from KJT
+158,03-12-2020,F,,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,Wife of case #157,157,,,Attended or had contact wth someone from KJT
+178,03-13-2020,M,34,,Malaysia,,"Hospital Permai, Johor",11,,,,Deceased,03-17-2020,Attended or had contact wth someone from KJT
+198,03-13-2020,M,46,,Malaysia,,Hospital Umum Sarawak,13,,,,,,"Attended or had contact wth someone from KJT, first Sarawak case"
+199,03-13-2020,M,73,,Malaysia,,Hospital Umum Sarawak,13,,,,,,"Attended or had contact with someone from KJT, Sarawak 2nd case"
+200,03-13-2020,F,60,,Malaysia,,Hospital Umum Sarawak,13,,,,,,"Attended or had contact with someone from KJT, Sarawak 3rd case"
+201,03-14-2020,,,,Malaysia,,"Hospital Miri, Sarawak",13,,,,,,
+202,03-14-2020,,,,Malaysia,,"Hospital Miri, Sarawak",13,,,,,,
+203,03-14-2020,,,,Malaysia,,Hospital Umum Sarawak,13,,,,,,
+237,03-14-2020,,,,Malaysia,,,,,,,,,Attended or had contact with KJT
+238,03-14-2020,M,60,,Malaysia,,Hospital Melaka,10,,,,Deceased,03-21-2020,Attended or had contact with KJT
+239,03-14-2020,,,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,,,,,Attended or had contact with KJT
+240,03-14-2020,,,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,,,,,Attended or had contact with KJT
+241,03-15-2020,M,68,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+242,03-15-2020,M,16,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+243,03-15-2020,M,58,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+245,03-15-2020,M,53,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+246,03-15-2020,M,62,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+247,03-15-2020,M,64,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+248,03-15-2020,M,63,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+249,03-15-2020,M,38,,Malaysia,,Hospital Miri,13,,,,,,(Pending) Attended or had contact with KJT
+250,03-15-2020,M,60,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,,,,,Diagnosed positive in Miri. Unrelated to KJT
+251,03-15-2020,M,61,,Malaysia,,Hospital Sibu,13,,,,,,Pending DAP MP
+252,03-25-2020,M,72,,Malaysia,,Hospital Bintulu,13,,,,,,Diagnosed positive in Miri. Unrelated to KJT
+259,03-14-2020,M,74,,Malaysia,,Hospital Pulau Pinang,3,,,,Deceased,03-22-2020,Attended or had contact with KJT
+290,03-25-2020,M,57,,Malaysia,,Hospital Kuala Lumpur,14,,,,Deceased,03-21-2020,Attended or had contact with KJT
+358,03-15-2020,M,60,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,,,Deceased,03-17-2020,"Pastor at the Emmanuel Baptist Church in Kuching, Sarawak"
+595,03-17-2020,F,51,,Malaysia,,Hospital Miri,13,,,,Deceased,03-23-2020,Pending
+780,03-18-2020,M,76,,Malaysia,3/18/2020,"Hospital Sultan Ismail Petra, Kuala Kerai",5,,,,Deceased,03-25-2020,Attended or had contact with KJT
+781,03-16-2020,M,69,,Malaysia,,"Hospital Raja Perempuan Zainab II, Kota Bharu",5,,,,Deceased,03-21-2020,Attended or had contact with KJT
+787,03-18-2020,M,77,,Malaysia,,Hospital Kuala Lumpur,14,,,,Deceased,03-29-2020,Mempunyai latar belakang penyakit darah tinggi
+890,03-17-2020,M,48,,Malaysia,,"Hospital Tuanku Fauziah, Kangar",1,,,,Deceased,03-22-2020,First death among health officer
+1006,03-20-2020,M,49,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,Son of case #1031,1031,Deceased,03-23-2020,
+1031,03-16-2020,F,79,,Malaysia,,Borneo Medical Center,13,,,1006,Deceased,03-18-2020,
+1032,03-18-2020,F,40,,Malaysia,,"Hospital Umum Sarawak, Kuching",13,,,,Deceased,03-21-2020,
+1056,03-18-2020,M,35,,Malaysia,3/18/2020,Hospital Kuala Lumpur,14,,,,Deceased,03-26-2020,Has a travel history to Indonesia
+1070,03-22-2020,M,70,,Malaysia,,Hospital Canselor Tuanku Muhriz UKM,14,,,,Deceased,03-22-2020,Travelled to Indonesia in February and happened to be chairman of his local surau
+1114,03-21-2020,M,70,,Malaysia,,Hospital Kluang,11,,,,Deceased,03-23-2020,Attended or had contact with KJT
+1239,03-22-2020,M,50,,Malaysia,,"Hospital Enche' Besar Hajjah Khalsom, Johor",11,,,,Deceased,03-28-2020,"KJT, mempunyai latar belakang penyakit darah tinggi."
+1246,03-19-2020,F,68,,Malaysia,3/19/2020,"Hospital Sultanah Nora Ismail, Johor",11,,,,Deceased,03-25-2020,
+1249,03-21-2020,M,37,,Malaysia,,"Hospital Permai, Johor",11,,,,Deceased,03-28-2020,Has a travel history to India
+1251,03-20-2020,M,66,,Malaysia,3/20/2020,"Hospital Pakar Sultanah Fatimah, Muar",11,,,,Deceased,03-25-2020, Beliau mempunyai latar belakang penyakit kronik. dan disyaki mempunyai sejarah kontak dengan kes positif COVID-19. Kesihatan beliau merosot dan telah diberi bantuan pernafasan di ICU 
+1321,03-27-2020,M,53,,Malaysia,3/22/2020,"Hospital Sungai Buloh, Selangor",8,,Close contact of case #1309,1309,Deceased,03-27-2020,
+1334,03-16-2020,M,75,,Malaysia,3/18/2020,Hospital Kuala Lumpur,14,,,,Deceased,03-24-2020,mempunyai latar belakang penyakit kronik. Beliau dirawat di Hospital Angkatan Tentera Tuanku Mizan pada 16 Mac 2020 sebelum dipindahkan ke Hospital Kuala Lumpur pada 18 Mac 2020. Kesihatan beliau merosot dan telah diberi bantuan pernafasan di ICU
+1519,03-18-2020,M,71,,Malaysia,,"Hospital Pakar Sultanah Fatimah, Muar",11,,Believed to be close contact of case #703,,Deceased,03-24-2020,"empunyai penyakit kencing manis dan darah tinggi, Beliau mempunyai gejala selama seminggu iaitu demam, batuk dan kesesakan nafas untuk tiga (3) hari. Beliau telah dirawat di Hospital Pakar Sultanah Fatimah, Muar pada 18 Mac 2020. Kesihatan beliau merosot dan telah diberi bantuan pernafasan di Unit Rawatan Rapi (ICU) "
+1588,03-23-2020,M,63,,Malaysia,,"Hospital Sultanah Bahiyah, Kedah",2,,,,Deceased,03-26-2020,Attended or had contact with KJT
+1625,03-20-2020,M,56,,Malaysia,,"Hospital Sultan Ismail, Johor",11,,,,Deceased,03-25-2020,
+1797,03-23-2020,M,48,,Malaysia,,"Hospital Enche' Besar Hajjah Khalsom, Johor",11,,,,Deceased,03-26-2020,"Attended or had contact with KJT,  mempunyai latar belakang penyakit kronik"
+1840,03-23-2020,M,62,,Malaysia,,"Hospital Raja Permaisuri Bainun, Ipoh, Perak",4,,,,Deceased,03-26-2020,Mempunyai latar belakang penyakit kronik
+2032,03-25-2020,M,83,,Malaysia,3/25/2020,"Hospital Raja Permaisuri Bainun, Ipoh, Perak",4,,,,Deceased,03-27-2020,mempunyai latar belakang penyakit kronik
+2123,03-25-2020,F,64,,Malaysia,,"Hospital Tuanku Jaafar, Negeri Sembilan",9,,,,Deceased,03-28-2020,Mempunyai latar belakang penyakit kencing manis dan darah tinggi
+2162,03-24-2020,M,61,,Malaysia,3/25/2020,"Hospital Pakar Sultanah Fatimah, Muar",11,,,,Deceased,03-28-2020," Beliau mempunyai latar belakang penyakit kencing manis dan darah tinggi. Beliau dirawat di Hospital Tangkak pada 24 Mac 2020 dan kemudian dipindah ke Hospital Pakar Sultanah Fatimah, Muar pada 25 Mac 2020"
+2321,03-26-2020,F,91,,Malaysia,,Pusat Perubatan Universiti Malaya,14,,,,Deceased,03-28-2020,"Mempunyai latar belakang penyakit kencing manis, darah tinggi dan penyakit buah pinggang"
+2322,,M,76,,Malaysia,,Pusat Perubatan Universiti Malaya,14,,,,Deceased,03-28-2020,"Mempunyai latar belakang penyakit kencing manis, darah tinggi dan penyakit buah pinggang"
+2323,03-27-2020,M,27,,Malaysia,,"Hospital Raja Permaisuri Bainun, Ipoh, Perak",4,,,,Deceased,03-28-2020,"Mempunyai latar belakang penyakit kencing manis, darah tinggi dan penyakit buah pinggang"
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Infected COVID-19 cases in Malaysia,,,,,,, Source: From the Desk of the Director-General of Health Malaysia https://kpkesihatan.com/,,"Compiled by: Normaziah and Irfan @ TTDI, March 2020",,,,,
+,,,,,,,,,,,,,,KJT - Kluster Jemaah Tabligh
