@@ -7,8 +7,8 @@ This is the data repository for the 2019 Coronavirus maintained by CoExCyS, ICT 
 <br>
 
 <b>Dataset:</b><br>
-Malaysian Dataset for Infected
-Malaysian Dataset for Death
+Malaysian Dataset for [Infected](Infected%20cases%20Covid19-MY.csv) cases <br>
+Malaysian Dataset for [Death](Death%20cases%20Covid19-MY.csv) cases <br>
 
 
 <b>Provided by Center of Excellence for Cyber Security (CoExCyS), Kulliyyah of ICT, IIUM:</b><br>
