@@ -6,12 +6,17 @@ This is the data repository for the 2019 Coronavirus maintained by CoExCyS, ICT 
 
 <br>
 
-<b>Visual Dashboard (desktop):</b><br>
+<b>Dataset:</b><br>
+Malaysian Dataset for Infected
+Malaysian Dataset for Death
 
-<b>Provided by Johns Hopkins University Center of Excellence for Cyber Security (CoExCyS), Kulliyyah of ICT, IIUM:</b><br>
+
+<b>Provided by Center of Excellence for Cyber Security (CoExCyS), Kulliyyah of ICT, IIUM:</b><br>
 https://www.iium.edu.my/kict
 <br><br>
 <b>Data Sources:</b><br>
+* Source: From the Desk of the Director-General of Health Malaysia https://kpkesihatan.com/
+* Johns Hopkins JHU Database
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 
 
